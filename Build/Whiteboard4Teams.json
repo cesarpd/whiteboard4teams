@@ -1,0 +1,15 @@
+{
+"companyName": "Galevan Co",
+"productName": "whiteboard",
+"productVersion": "0.1",
+"dataUrl": "Whiteboard4Teams.data.unityweb",
+"wasmCodeUrl": "Whiteboard4Teams.wasm.code.unityweb",
+"wasmFrameworkUrl": "Whiteboard4Teams.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#D0D3D9",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
